@@ -26,6 +26,11 @@ public class Pruebarepositorio {
         primerauto.tocarBocina();
         Separador();
         
+        Moto primeramoto = new Moto("Honda", 2004,2);
+        primeramoto.mostrarInfo();
+        primeramoto.tocarBocina();
+        Separador();
+        
         
     }
     
