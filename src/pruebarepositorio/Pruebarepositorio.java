@@ -36,6 +36,11 @@ public class Pruebarepositorio {
         segundamoto.tocarBocina();
         Separador();
         
+        Triciclo primertriciclo = new Triciclo("Venzo", 2025, 3);
+        primertriciclo.mostrarInfo();
+        primertriciclo.tocarBocina();
+        Separador();
+        
     }
     
 }
