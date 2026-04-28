@@ -22,6 +22,6 @@ public class Moto {
 
     // Método para simular bocina
     public void tocarBocina() {
-        System.out.println("Pi pi!");
+        System.out.println("Pi pi pi!");
     }
 }
